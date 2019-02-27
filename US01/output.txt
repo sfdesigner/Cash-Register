@@ -1,0 +1,5 @@
+"C:\Program Files\Java\jdk-10.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3\lib\idea_rt.jar=53814:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\dougw\OneDrive\Code Repo\IntelliJ IDEA\Cash Register\out\production\US01" Main
+75 units of Fuji Apples, are priced at 0.49, is not taxable, and is in our Produce department.
+75 units of Apricots, are priced at 0.39, is not taxable, and is in our Produce department.
+
+Process finished with exit code 0
